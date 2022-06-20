@@ -20,7 +20,7 @@
         <link rel="shortcut icon" href="/assets/dashboard/assets/images/favicon.png" />
         <style>
             .content-wrapper {
-                background: linear-gradient(to bottom, #9cafe5, #74e9d5);
+                background: #fbffc3;
             }
             .navbar .form-control {
                 width: 40%;

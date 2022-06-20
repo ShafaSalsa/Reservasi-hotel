@@ -27,7 +27,7 @@
                                     <th> Nama Tamu </th>
                                     <th> Check In </th>
                                     <th> Check Out </th>
-                                    <th> Aksi </th>
+                                    
                                 </tr>
                             </thead>
                             <tbody>
@@ -37,9 +37,7 @@
                                     <td> {{ $row->nama_tamu }} </td>
                                     <td> {{ $row->tgl_check_in }} </td>
                                     <td> {{ $row->tgl_check_out }} </td>
-                                    <td>
-                                        <div class="badge badge-outline-success">Check In</div>
-                                    </td>
+                                    
                                 </tr>
                                 @endforeach
                             </tbody>

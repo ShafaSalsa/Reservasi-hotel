@@ -14,7 +14,7 @@
 
 #booking {
 	font-family: 'Alice', serif;
-	background: linear-gradient(to right, #9cafe5 ,#74e9d5);
+	background: linear-gradient(to right, #dca73a);
 }
 
 .booking-form {
@@ -34,7 +34,7 @@
 	top: -25px;
 	bottom: -25px;
 	width: 400px;
-	background-image: url('../img/background.jpg');
+	background-image: url('../img/background.jfif');
 	background-size: cover;
 	background-position: center;
 	padding: 25px;
@@ -52,7 +52,7 @@
 	bottom: 0;
 	top: 0;
 	opacity: .3;
-	background: linear-gradient(to bottom, #9cafe5 ,#74e9d5);
+	background: linear-gradient(to bottom, #dca73a);
 }
 
 .booking-form>form {
@@ -174,7 +174,7 @@
 	display: block;
 	width: 100%;
 	color: #fff;
-	background-color: #9cafe5;
+	background-color: #dca73a;
 	font-weight: 700;
 	font-size: 18px;
 	border: none;
@@ -186,7 +186,7 @@
 
 .booking-form .submit-btn:hover,
 .booking-form .submit-btn:focus {
-	background-color: #74e9d5;
+	background-color: #dca73a;
 }
 
 @media only screen and (max-width: 768px) {

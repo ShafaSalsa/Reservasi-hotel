@@ -4,7 +4,7 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Dashboard - Hotel Hebat</title>
+        <title>Welcome</title>
         <!-- plugins:css -->
         <link rel="stylesheet" href="/assets/dashboard/assets/vendors/mdi/css/materialdesignicons.min.css">
         <link rel="stylesheet" href="/assets/dashboard/assets/vendors/css/vendor.bundle.base.css">
@@ -23,7 +23,7 @@
         <link rel="shortcut icon" href="/assets/dashboard/assets/images/favicon.png" />
         <style>
             .content-wrapper {
-                background: linear-gradient(to bottom, #9cafe5, #74e9d5);
+                background: #fbffc3;
             }
             .badge, .badge:hover, a {
                 text-decoration: none;
